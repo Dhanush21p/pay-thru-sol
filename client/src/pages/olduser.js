@@ -104,7 +104,7 @@ class olduser extends Component {
               <Grid container spacing={3}>
                 <Grid item xs={12}>
                   <Typography variant="h6" gutterBottom>
-                    Login into PaySol
+                    Login into Pay Thru Sol
                   </Typography>
                 </Grid>
                 <Grid item xs={12}>

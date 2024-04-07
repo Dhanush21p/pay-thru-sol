@@ -1,15 +1,15 @@
-# PaySol
+# Pay Thru Sol
 
 ## Project Description
 
-PaySol is a chat based non-custodial crypto wallet that empower users to transact SOLs via P2P, keep track of financial records, advertise offerings, earn SPL tokens for every transaction.
+Pay Thru Sol is a chat based non-custodial crypto wallet that empower users to transact SOLs via P2P, keep track of financial records, advertise offerings, earn SPL tokens for every transaction.
 
 ### Features
 - Web based non-custodial crypto wallet
 - Enables secure and private 1:1 messaging
 - Pay by scanning QR code
 - Creating accounts KYC-free
-- Zero transaction fee charged by PaySol
+- Zero transaction fee charged by Pay Thru Sol
 
 ## Architecture
 
@@ -30,7 +30,7 @@ MONGO_CONNECTION_URL =
 
 ## Installation
 
-To run this application locally, clone the GitHub repo using `https://github.com/srishilesh/PaySol.git`. Then, follow the instructions as mentioned below:
+To run this application locally, clone the GitHub repo using `https://github.com/srishilesh/Pay Thru Sol.git`. Then, follow the instructions as mentioned below:
 
 ### Server
 

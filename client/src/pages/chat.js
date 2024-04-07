@@ -156,7 +156,7 @@ const Chat = (props) => {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" noWrap>
-              PaySol
+              Pay Thru Sol
             </Typography>
           </Toolbar>
         </AppBar>

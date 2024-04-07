@@ -78,7 +78,7 @@ class newuser extends Component {
     const url = window.URL.createObjectURL(new Blob([mnemonic]));
     const link = document.createElement("a");
     link.href = url;
-    link.setAttribute("download", "paysol.bak");
+    link.setAttribute("download", "Pay Thru Sol.bak");
     document.body.appendChild(link);
     link.click();
     this.setState({ isdownladed: false });
@@ -123,7 +123,7 @@ class newuser extends Component {
             {this.state.isdownladed ? (
               <div style={{ justifyContent: "center" }}>
                 <Typography component="h1" variant="h4" align="center">
-                  PaySol
+                  Pay Thru Sol
                 </Typography>
                 <Typography variant="h6" align="center" paragraph>
                 Pay and get paid with crypto <br/>

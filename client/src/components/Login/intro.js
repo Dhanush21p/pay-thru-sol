@@ -41,10 +41,10 @@ function Intro() {
       <main className={classes.layout}>
         <Paper className={classes.paper}>
           <Typography component="h1" variant="h4" align="center">
-            PAYSOL
+            Pay Thru Sol
           </Typography>
           <Typography variant="h5" align="center" color="textSecondary" paragraph>
-          PAYSOL is a contactless, borderless and secure cryptocurrency payment technology designed on solana. Shop with crypto or send crypto to friends and family worldwide.
+          Pay Thru Sol is a contactless, borderless and secure cryptocurrency payment technology designed on solana. Shop with crypto or send crypto to friends and family worldwide.
           </Typography>
           <div className={classes.heroButtons}>
             <Grid container spacing={2} justifyContent="center">

@@ -40,7 +40,7 @@ function App() {
           <AppBar position="absolute" color="default" className={classes.appBar}>
             <Toolbar>
               <Typography variant="h4" color="inherit" noWrap className={classes.color}>
-                PAYSOL
+                Pay Thru Sol
               </Typography>
             </Toolbar>
           </AppBar>
